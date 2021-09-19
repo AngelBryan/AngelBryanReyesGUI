@@ -4,7 +4,7 @@ root.geometry('600x300+0+0')
 root.title('Login')
 root.configure(bg = 'white')
 
-print('bryan')
+
 
 
 user_input1 = StringVar()
